@@ -79,5 +79,3 @@ VII) Next Steps:
 ## License
 
 This project is for educational use. Feel free to reuse or adapt it as needed.
-
-```
