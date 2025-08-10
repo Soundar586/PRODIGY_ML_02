@@ -1,9 +1,6 @@
 # PRODIGY_ML_02
 
-
-
-
-# PRODIGY_ML_02 – Customer Segmentation Project
+# Customer Segmentation Project
 
 I) Overview:
 This project focuses on grouping customers based on behavioral or demographic features using clustering algorithms. It is part of the Prodigy ML internship series and demonstrates practical unsupervised learning.
